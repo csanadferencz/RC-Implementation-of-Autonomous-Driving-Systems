@@ -1,2 +1,6 @@
 # RC-Implementation-of-Autonomous-Driving-Systems
-Practical realization of: a driving environment for testing autonomous vehicles; a model designed to demonstrate the functioning principles of certain autonomous driving functions; four dynamic tests, which would reflect the autonomous capabilities of the model.
+Practical realization of an autonomous self-driving vehicle platform with Arduino UNO and C++, model designed to demonstrate the functioning principles of 4 autonomous driving systems:
+- Lane Keeping Assistance Module;
+- Autonomous Emergency Braking Assistance Module;
+- Autonomous Overtaking Assistance Module;
+- Autonomous Overtaking Assistance Module.
